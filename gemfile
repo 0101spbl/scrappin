@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'dotenv'
+gem 'nokogiri'
+gem'open-uri'

@@ -1,0 +1,32 @@
+GEM
+  specs:
+    coderay (1.1.3)
+    date (3.0.0)
+    dotenv (2.8.1)
+    method_source (1.0.0)
+    nokogiri (1.13.8-arm64-darwin)
+      racc (~> 1.4)
+    open-uri (0.2.0)
+      stringio
+      time
+      uri
+    pry (0.14.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    racc (1.4.16)
+    stringio (0.1.0)
+    time (0.2.0)
+      date
+    uri (0.10.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  dotenv
+  nokogiri
+  open-uri
+  pry
+
+BUNDLED WITH
+   2.3.23
